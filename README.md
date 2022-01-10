@@ -1,5 +1,9 @@
 # togETHer
 
+bi-weekly meeting, go to Discussion
+
+https://github.com/tog-ETH-er/togETHer/discussions
+
 All the meeting minutes before 2022 are here:
 
 https://docs.google.com/document/d/1_SQVGGsi5c0wprHA6OgArFnzhIrESAavxksbWGaFrdM/edit#
